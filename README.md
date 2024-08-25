@@ -1,0 +1,3 @@
+-Created REST end points for creating, reading, updating, deleting job postings.
+-Implemented an end points to search for job postings based on keywords, location, and required skills.
+-
